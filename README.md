@@ -2,8 +2,8 @@
 ### 👋 Hi! My name is Constanza Florio.
 * 👩🏻‍🔬 I am a physician (general practitioner). I have worked 7 years in health care assisting pacients, in public hospitals and private clinics. 
 * 🤓 I love my profession, and i also love studing, that´s why i decided to start another career.
-* 📉 This year i discovered my passion for information technology and started studing Data Science at Henry´s.
-* ⚡ It amazed me how many things can be done with the tools i learned. I am sure my way on this industry is just beginning.
+* 📉 Last year I discovered my passion for information technology and studied Data Science at Henry´s. I also started at april 2024 a Magister in Data Science at ITBA University.
+* ⚡ It amazed me how many things can be done with the tools I learned. I am sure my way on this industry is just beginning.
 * 🚀 I am ready to take off and very excited to continue learning and being able to put on practice my skills on my future IT career.
 
 ### 🚀I have recently finished my Data Science bootcamp🚀
