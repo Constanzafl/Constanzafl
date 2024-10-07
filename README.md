@@ -6,17 +6,19 @@
 * ⚡ It amazed me how many things can be done with the tools I learned. I am sure my way on this industry is just beginning.
 * 🚀 I am ready to take off and very excited to continue learning and being able to put on practice my skills on my future IT career.
 
-### 🚀I have recently finished my Data Science bootcamp🚀
+### 🚀Last year I finished my Data Science bootcamp🚀
 
-#### - 🔭 Here you can se the last 3 proyects i´ve been working on🔭:
+#### - 🔭 Here you can se the 3 proyects I´ve done in my bootcamp🔭:
 - **[Proyecto_Indiv_1_MLO_Henry](https://github.com/Constanzafl/Proyecto_Indiv_1_MLO_Henry)**
 - **[Proyecto2_Data_Analytics](https://github.com/Constanzafl/Proyecto2_Data_Analytics)**
 - **[Proyecto_Final](https://github.com/Constanzafl/Proyecto_Final)**
 
-##### **⌨️TECH SKILLS⌨️**: Python, SQL, Stremlit, Power BI, Data Analytics, Data Engineer, Machine Learning, Google Cloud.
+### 🚀In April of this year, I started my Master's in Data Science at ITBA🚀
+
+##### **⌨️TECH SKILLS⌨️**: Python, SQL, Stremlit, Power BI, Data Analytics, Data Engineer, Machine Learning, Google Cloud, Gen AI LLMS, Gemini, Java, R.
 ##### **🙎🏻‍♀️SOFT SKILLS🙎🏻‍♀️**: Empathy, Leadership, Team Work, Colaboration, Organization and planification.
 ###### **Last but not least**:
-- 🌱 I’m currently looking for a new job to aply all my knowledge.
+- 🌱 I’m currently working at Librodepases, particulary using LLMs like Gemini and ML projects.
 - 👯 I’m looking to collaborate on new proyects.
 - 📫 How to reach me: [My web page](https://6537bb5550e55.site123.me/)
 - 😄 Pronouns: she/her
